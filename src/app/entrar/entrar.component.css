@@ -1,0 +1,39 @@
+#img-bg {
+  background-image: url("https://images7.alphacoders.com/591/591728.png");
+  min-height: 1000px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+}
+
+#img-tp {
+  background-image: linear-gradient(45deg, #595454ec, #061322e9);
+  padding: 5px;
+  padding-top: 50px;
+  padding-bottom: 70px;
+  border-radius: 20px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+a {
+  cursor: pointer;
+  color: #9e040c;
+}
+
+input {
+  background-color: #cacaca;
+}
+
+button {
+  border-color: #a09e9e;
+  border-style: outset;
+}
+
+button.access {
+  background-color: #550202;
+  color: #ffffff;
+  font-weight: 500;
+}
